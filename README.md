@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi! I'm Riley 👋
+---
+I'm a front-end developer based in Denver, Colorado.
+
+
 
 <!--
 **rileydevdzn/rileydevdzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
