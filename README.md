@@ -1,5 +1,5 @@
 ## Hi! I'm Riley 👋
----
+
 I'm a front end developer and UX designer based in Denver, Colorado.
 
 - 💻 Currently building with: **Bootstrap** and **Webflow**
