@@ -1,20 +1,15 @@
 ## Hi! I'm Riley 👋
 ---
-I'm a front-end developer based in Denver, Colorado.
+I'm a front end developer and UX designer based in Denver, Colorado.
+
+- 💻 Currently building with: **Bootstrap** and **Webflow**
+- 🌱 Learning more about and studying: **Digital Accessibility**, **React** and **Redux** 
+- 🎧 Outside of work you'll find me running, traveling, listening to podcasts and cheering on my favorite rugby teams 🇳🇿 🇮🇪 
 
 
+</br>
 
-<!--
-**rileydevdzn/rileydevdzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ My toolkit
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,git,vscode,figma,webflow)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
