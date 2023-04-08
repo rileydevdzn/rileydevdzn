@@ -2,7 +2,7 @@
 
 I'm a front end developer and UX designer based in Denver, Colorado.
 
-- 💻 Currently building with: **Bootstrap** and **Webflow**
+- 💻 Currently building with: **Vue** and **Webflow**
 - 🌱 Learning more about and studying: **Digital Accessibility**, **React** and **Node** 
 - 🎧 Outside of work you'll find me: running, traveling, listening to podcasts and cheering on my favorite rugby teams 🇳🇿 🇮🇪 
 
