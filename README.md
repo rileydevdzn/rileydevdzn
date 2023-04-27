@@ -11,5 +11,5 @@ I'm a front end developer and UX designer based in Denver, Colorado.
 
 ### ⚙️ My toolkit
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,vscode,figma,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,vite,vscode,figma,webflow)](https://skillicons.dev)
 
