@@ -1,6 +1,6 @@
 ## Hi! I'm Riley 👋
 
-I'm a front end developer and UX designer based in Denver, Colorado.
+I'm a UX Engineer based in Denver, Colorado.
 
 - 💻 Currently building with: **Vue.js** and **Webflow**
 - 🌱 Learning more about and studying: **Digital Accessibility**, **React** and **Node** 
