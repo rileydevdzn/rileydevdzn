@@ -1,3 +1,5 @@
+<img src="./github-banner.png" width="100%"/>
+
 ## Hi! I'm Riley 👋
 
 I'm a UX Engineer based in Denver, Colorado.
