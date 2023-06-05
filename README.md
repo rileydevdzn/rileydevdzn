@@ -1,4 +1,4 @@
-
+<img src="./github-banner.png" width="100%"/>
 
 ## Hi! I'm Riley 👋
 
